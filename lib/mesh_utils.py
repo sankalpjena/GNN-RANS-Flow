@@ -81,6 +81,8 @@ SU2_SHAPE_IDS = {
 
 def get_mesh_graph(mesh_filename: Union[str, PathLike], dtype: np.dtype = np.float32) -> Tuple[np.ndarray, np.ndarray, List[List[List[int]]], Dict[str, List[List[int]]]]:
     """
+    Source: https://github.com/locuslab/cfd-gcn
+    
     Generate a graph using the mesh file.
 
     Args:
