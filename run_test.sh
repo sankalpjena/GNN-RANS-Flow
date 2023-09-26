@@ -1,0 +1,1 @@
+srun python test_model.py > test_log.txt
