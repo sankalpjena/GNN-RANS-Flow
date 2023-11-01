@@ -4,3 +4,7 @@ A graph neural network based surrogate model for steady-state (CFD) flow predict
 This repository contains the work done during my master thesis at [Chair of Fluid Mechanics, TU Dresden](https://tu-dresden.de/ing/maschinenwesen/ism/psm). The thesis report can be found here: [Surrogate modelling for fluid flow problems and application on cleaning model](https://sankalpjena.github.io/documents/master_thesis_SJena.pdf). The corresponding presentation during defense can be found [here](https://sankalpjena.github.io/documents/thesis_presentation_vFinal.pdf).
 
 Computing resources were provided by [Center for Information Services and High Performance Computing, Dresden](https://tu-dresden.de/zih).
+
+Related repositories:
+Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction: https://github.com/locuslab/cfd-gcn
+CFL-Minds GNN Laminar Flow: https://github.com/cfl-minds/gnn_laminar_flow
