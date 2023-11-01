@@ -6,5 +6,7 @@ This repository contains the work done during my master thesis at [Chair of Flui
 Computing resources were provided by [Center for Information Services and High Performance Computing, Dresden](https://tu-dresden.de/zih).
 
 Related repositories:
+
 Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction: https://github.com/locuslab/cfd-gcn
+
 CFL-Minds GNN Laminar Flow: https://github.com/cfl-minds/gnn_laminar_flow
